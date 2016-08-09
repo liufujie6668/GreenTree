@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\skyblue_platform_list_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\bundles\\debug\\res\\drawable\\skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_recomm_friends_share_msg.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\exploded-aar\\GreenTreeHotel\\ShareSDK-Lib\\unspecified\\res\\drawable\\ssdk_recomm_friends_share_msg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\skyblue_platform_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\bundles\\debug\\res\\drawable\\skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\classic_platform_corners_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\bundles\\debug\\res\\drawable\\classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_recomm_def_app_image.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\exploded-aar\\GreenTreeHotel\\ShareSDK-Lib\\unspecified\\res\\drawable\\ssdk_recomm_def_app_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\skyblue_platform_list_item_selected.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\bundles\\debug\\res\\drawable\\skyblue_platform_list_item_selected.xml"
+    }
+]

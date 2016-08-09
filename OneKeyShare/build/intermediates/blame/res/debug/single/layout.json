@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_actionbar.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\layout\\skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_at_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\layout\\skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\layout\\skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\layout\\skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\layout\\skyblue_editpage.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_inc_image_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\layout\\skyblue_editpage_inc_image_layout.xml"
+    }
+]
